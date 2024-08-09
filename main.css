@@ -12,7 +12,6 @@ body, html {
 body {
   background: url(./images/bg.png) no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
 }
 
 main {
